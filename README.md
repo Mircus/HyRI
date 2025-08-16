@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./HyRI_logo.png" alt="HyperCat Logo" width="450"/>
+</p>
+
+
 # HyRI - Hybrid Relational Intelligence Platform
 
 *Structured dialogue between humans and AI agents using the NeuroGlyph protocol*
