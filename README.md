@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./HyRI_logo.png" alt="HyperCat Logo" width="450"/>
+  <img src="./HyRI-logo.jpg" alt="HyRI Logo" width="450"/>
 </p>
 
 
