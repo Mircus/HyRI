@@ -1,0 +1,8 @@
+file,line,text
+docs/neuroglyph_platform_guide.md,26,**Note for macOS users:**
+docs/neuroglyph_platform_guide.md,32,**Note for Linux users:**
+examples/hyri_colab_notebook.py,50,"'🔥': '/pulse', '🤝': '/trust', '📝': '/note', '🔍': '/introspect'"
+examples/hyri_colab_notebook.py,259,"both_button = widgets.Button(description=""🔄 Both Agents"", button_style='warning')"
+src/HiRI.py,53,"'⛓️': '/chain', '📢': '/echo', '🔧': '/resolve', '📝': '/note',"
+src/app/hyri_streamlit_app.py,61,"'⛓️': '/chain', '📢': '/echo', '🔧': '/resolve', '📝': '/note',"
+src/app/hyri_streamlit_app.py,374,"st.warning(f""⚠️ Validation: {', '.join(msg.validation_errors)}"")"
