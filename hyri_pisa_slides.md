@@ -41,6 +41,28 @@
 
 ## Slide 3: Fondamenti Filosofici
 
+### Nota: Filosofia RelAzionale (A. Fabris)
+
+- **Primato della relazione**: l’identità personale non è monade ma **nodo di relazioni concrete**; la comprensione nasce *nel tra*, non nel soggetto isolato.  
+- **Etica come prassi relazionale**: responsabilità **co-originaria** e **reciproca**; l’altro è costitutivo del mio stesso agire (riconoscimento, ascolto, restituzione).  
+- **Comunicazione come co-costruzione**: non mera trasmissione d’informazioni, ma **evento etico** che istituisce legami e impegni.  
+- **Tecnologia come ambiente relazionale**: non neutra; va **orientata** perché favorisca cura, fiducia, **trasparenza delle intenzioni** e accountability.  
+
+**Ponte con HyRI/NG**  
+- HyRI assume la relazione come **unità minima di senso**; NG rende **espliciti** contesti, intenzioni e impegni (token `/context`, `/intent`, `/relation`, `/govern`).  
+- La “fusione degli orizzonti” (Gadamer) diventa **governance relazionale**: ogni turno esplicita *per chi* e *con chi* si parla.
+
+**Esempio NG (cornice relazionale)**
+```text
+👥: professore_pisa, studente_magistrale, ia_advisor
+🧭: seminario_filosofia_tecnologia
+🧠: indagare_implicazioni_relazionali_dell_IA
+🌐: relazione=docente↔studente↔IA; impegni=ascolto_rispetto_restituzione
+📦: schema_dialogico_con_regole_di_cura
+🏛️: govern=consenso_argomentato; responsabilità=co-firmata
+```
+
+
 # **Radici Ermeneutiche del Progetto**
 
 ### 📖 **Gadamer e la Fusione degli Orizzonti**
@@ -395,6 +417,30 @@ Esempio: Collegamento Neuroscienze-Filosofia
 ---
 
 ## Slide 16: Aspetti Etici e Filosofici
+
+### Cornice RelAzionale (Fabris) per la governance HyRI
+
+- **Autorialità condivisa**: i risultati emergono **tra** i partecipanti; proporre *firma relazionale* (umani + ruolo IA).  
+- **Responsabilità distribuita e tracciabile**: ogni contributo esplicita **impegni** e **limiti**; NG → campo `/govern` con criteri e `/relation` con legami e destinatari.  
+- **Consenso situato**: decisioni come **accordo dialogico** documentato (turni, obiezioni, risposte); no “consenso astratto”.  
+- **Dignità e non-reificazione**: evitare che l’IA riduca l’altro a oggetto; progettare **metriche relazionali** (es. *RQI – Relational Quality Index*: chiarezza intenti, reciprocità turni, equità di parola).  
+- **Trasparenza delle intenzioni**: ogni passo deve esplicitare **perché** (finalità), **per chi** (destinatari), **con chi** (relazioni attive).
+
+**Proposta operativa — “Carta RelAzionale di Pisa” (draft)**  
+1. **Chiarezza d’intenti** ad ogni turno (`/intent`).  
+2. **Contestualizzazione** obbligatoria (`/context`) e **dichiarazione dei legami** (`/relation`).  
+3. **Regole di cura** e **criteri decisionali** espliciti (`/govern`).  
+4. **Responsabilità co-firmata** su deliverable e decisioni.  
+5. **Audit relazionale** continuo (RQI + registro NG).
+
+**Snippet NG per il gate etico**
+```text
+🏛️: govern="consenso_argomentato+registro_obiezioni"
+🌐: relazione="studenti↔docenti↔IA(con-ruolo)"
+🎯: metric="RQI≥0.8; obiezioni_risposte=100%"
+📣: echo="riassunto_impegni_e_limiti"
+```
+
 
 # **Questioni Etiche dell'Intelligenza Ibrida**
 
